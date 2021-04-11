@@ -39,7 +39,7 @@ dfa = DFA (
         
     },
    initial_state = 'st1',
-   final_state ={'st8','st9(cancel)'}
+   final_states ={'st8','st9(cancel)'}
 
 )
 
